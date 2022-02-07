@@ -24,7 +24,7 @@ function Form() {
             gamerating: rating.current.value,
         }
 
-        fetch("http://localhost:8000/games", {
+        fetch("https://jsonmockserver.herokuapp.com/games", {
             method: "post",
             body: JSON.stringify(gameData),
             headers: {

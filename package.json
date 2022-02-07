@@ -2,12 +2,13 @@
   "name": "unit5eval1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Shyamal90.github.io/",
+  "homepage": "https://Shyamal90.github.io/Evalution_2_Unit_5",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "cypress": "^9.4.1",
+    "gh-pages": "^3.2.3",
     "json-server": "^0.17.0",
     "netlify-cli": "^8.17.2",
     "react": "^17.0.2",
@@ -20,7 +21,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "cypress": "cypress open"
+    "cypress": "cypress open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

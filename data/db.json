@@ -339,6 +339,26 @@
       "gamedesc": "This is awesome game.",
       "gamerating": "2",
       "id": 34
+    },
+    {
+      "gamename": "afdadfa",
+      "gameauthor": "sgfsegf",
+      "gameprice": "234124",
+      "gametags": "rtgsrt",
+      "forkids": "on",
+      "gamedesc": "adfaerfga",
+      "gamerating": "3",
+      "id": 35
+    },
+    {
+      "gamename": "Fifa 15",
+      "gameauthor": "Rolando",
+      "gameprice": "35446546",
+      "gametags": "Football",
+      "forkids": "on",
+      "gamedesc": "adasfdafawe",
+      "gamerating": "2",
+      "id": 36
     }
   ]
 }
