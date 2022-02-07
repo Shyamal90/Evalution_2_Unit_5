@@ -1,0 +1,4 @@
+npm i
+local run
+npm i cy
+npm run test
