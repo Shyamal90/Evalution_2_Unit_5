@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Evalution_2_Unit_5/static/css/main.af6bd88a.css",
+    "main.js": "/Evalution_2_Unit_5/static/js/main.cb63e53d.js",
+    "index.html": "/Evalution_2_Unit_5/index.html",
+    "main.af6bd88a.css.map": "/Evalution_2_Unit_5/static/css/main.af6bd88a.css.map",
+    "main.cb63e53d.js.map": "/Evalution_2_Unit_5/static/js/main.cb63e53d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6bd88a.css",
+    "static/js/main.cb63e53d.js"
+  ]
+}
